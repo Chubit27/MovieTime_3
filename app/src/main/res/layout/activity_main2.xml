@@ -14,7 +14,7 @@
         android:layout_width="412dp"
         android:layout_height="429dp"
         android:layout_marginTop="25dp"
-        android:src="@tools:sample/avatars"
+        android:src="@drawable/the_hangover_polaroid"
         app:layout_constraintBottom_toTopOf="@+id/logoutButton"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"

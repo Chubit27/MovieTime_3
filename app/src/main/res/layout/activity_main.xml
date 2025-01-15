@@ -12,11 +12,11 @@
         android:id="@+id/imageView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:src="@tools:sample/avatars"
+        android:src="@drawable/movie"
         app:layout_constraintBottom_toTopOf="@+id/usernameEditText"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        tools:srcCompat="@drawable/_36_4369539_movie_logo_film" />
+        tools:srcCompat="@drawable/movie" />
 
     <EditText
         android:id="@+id/usernameEditText"
